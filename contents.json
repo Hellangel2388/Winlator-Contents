@@ -1,0 +1,158 @@
+[
+  {
+    "type": "Wine",
+    "verName": "10-arm64ec",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/proton-10-arm64ec.wcp.xz"
+  },
+  {
+    "type": "Wine",
+    "verName": "9.20",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/wine-9.20.wcp"
+  },
+  {
+    "type": "Box64",
+    "verName": "0.3.5",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.5.wcp"
+  },
+  {
+    "type": "Box64",
+    "verName": "036fix",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-036fix.wcp"
+  },
+  {
+    "type": "Box64",
+    "verName": "0.3.7-0d355aa",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.7-0d355aa.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "1.7.2",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.7.2.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "1.9.4",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.9.4.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "1.10.3-arm64ec-async",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.10.3-arm64ec-async.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "2.4.1-PreRegression",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-PreRegression.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "2.4.1-fix",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-fix.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "dxvk-2.4.1-1-gplasync-arm64ec",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-1-gplasync-arm64ec.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "2.5.3-1-gplasync",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.5.3-1-gplasync.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "2.6-2-gplasync",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6-2-gplasync.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "2.6-arm64ec-gplasync",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6-arm64ec-gplasync.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "2.6.2-arm64ec-gplasync",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6.2-arm64ec-gplasync.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "async-1.10.3",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-async-1.10.3.wcp"
+  },
+  {
+    "type": "DXVK",
+    "verName": "gplasync-2.3.1-1",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-gplasync-v2.3.1-1.wcp"
+  },
+  {
+    "type": "FEXCore",
+    "verName": "241214",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore_241214.wcp"
+  },
+  {
+    "type": "FEXCore",
+    "verName": "2505",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore-2505.wcp"
+  },
+  {
+    "type": "FEXCore",
+    "verName": "2508.1",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/2508.1.wcp"
+  },
+  {
+    "type": "FEXCore",
+    "verName": "2509.1",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2509.1.wcp"
+  },
+  {
+    "type": "FEXCore",
+    "verName": "Fix_NFS_Games",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/Fex_Fix_NFS_Games.wcp"
+  },
+  {
+    "type": "FEXCore",
+    "verName": "2507_fix",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore_2507_fix.wcp"
+  },
+  {
+    "type": "VKD3D",
+    "verName": "2.14.1-proton",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.14.1.wcp"
+  },
+  {
+    "type": "VKD3D",
+    "verName": "vkd3d-2.14.1-arm64ec",
+    "verCode": "0",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-2.14.1-arm64ec.wcp"
+  },
+  {
+    "type": "Box64",
+    "verName": "0.3.4",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Box64_wcp/box64-0.3.4.wcp"
+  }
+]
